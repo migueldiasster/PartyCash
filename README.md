@@ -1,8 +1,8 @@
 <div align="center">
   
-  <h2 align="center">Cryptex - Cryptocurrency Website</h2>
+  <h2 align="center">PartyCash - Your Cryptocurrency Website</h2>
 
-  Cryptex is a fully responsive cryptocurrency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  PartyCash is a fully responsive cryptocurrency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://migueldiasster.github.io/PartyCash/"><strong>➥ Live Demo on FIRE</strong></a>
 
