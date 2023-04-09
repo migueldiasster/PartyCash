@@ -4,7 +4,7 @@
 
   PartyCash is a fully responsive cryptocurrency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://migueldiasster.github.io/PartyCash/"><strong>➥ Live Demo on FIRE</strong></a>
+  <a href="https://migueldiasster.github.io/PartyCash/"><strong>➥ Live Demo on FIRE 4 U</strong></a>
 
 </div>
 
