@@ -12,7 +12,7 @@
 
 ### Demo Screeshots
 
-![Cryptex Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 
 
